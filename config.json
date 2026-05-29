@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionderify",
+        "uuid": 20644,
+        "checksum": "b3csv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
